@@ -145,7 +145,7 @@ Building [alphaview.kr](https://alphaview.kr), an AI-powered platform that analy
 <div align="center">
 
 <a href="https://tokscale.ai/leaderboard"><img src="https://img.shields.io/badge/Global_Rank-%2326-FFD700?style=for-the-badge&logo=trophy&logoColor=white" alt="Global Rank"/></a>
-<a href="https://tokscale.ai/u/shaun0927"><img src="https://img.shields.io/badge/Total_Cost-34,746-00d084?style=for-the-badge&logo=cashapp&logoColor=white" alt="Total Cost"/></a>
+<a href="https://tokscale.ai/u/shaun0927"><img src="https://img.shields.io/badge/Total_Cost-34,751-00d084?style=for-the-badge&logo=cashapp&logoColor=white" alt="Total Cost"/></a>
 <img src="https://img.shields.io/badge/Tokens-51.6B-00d084?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Tokens"/>
 
 </div>
@@ -154,9 +154,9 @@ Building [alphaview.kr](https://alphaview.kr), an AI-powered platform that analy
 
 <img src="https://img.shields.io/badge/Streak-84_days-FF6B35?style=flat-square&logo=fireship&logoColor=white" alt="Streak"/>
 <img src="https://img.shields.io/badge/Active_Days-84-4A90D9?style=flat-square&logo=calendar&logoColor=white" alt="Active Days"/>
-<img src="https://img.shields.io/badge/Avg_Daily-414.34-9B59B6?style=flat-square&logo=trending-up&logoColor=white" alt="Avg Daily"/>
+<img src="https://img.shields.io/badge/Avg_Daily-413.59-9B59B6?style=flat-square&logo=trending-up&logoColor=white" alt="Avg Daily"/>
 <img src="https://img.shields.io/badge/Best_Day-2,670-E74C3C?style=flat-square&logo=zap&logoColor=white" alt="Best Day"/>
-<img src="https://img.shields.io/badge/Messages-473,985-3498DB?style=flat-square&logo=chat&logoColor=white" alt="Messages"/>
+<img src="https://img.shields.io/badge/Messages-474,011-3498DB?style=flat-square&logo=chat&logoColor=white" alt="Messages"/>
 <img src="https://img.shields.io/badge/Models-13-1ABC9C?style=flat-square&logo=robot&logoColor=white" alt="Models"/>
 
 </div>
@@ -165,10 +165,10 @@ Building [alphaview.kr](https://alphaview.kr), an AI-powered platform that analy
 
 <table>
 <tr><th>Platform</th><th>Models</th><th>Share</th><th>Messages</th><th>Tokens</th><th>Cost</th></tr>
-<tr><td><img src="https://img.shields.io/badge/Claude_Code-cc9b7a?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/></td><td><code>opus-4-6</code> <code>opus-4-7</code> <code>sonnet-4-6</code> <code>+4</code></td><td><code>███████████████░░░░░</code> 76.7%</td><td align="right">337,471</td><td align="right">30.7B</td><td align="right"><b>$26,648</b></td></tr>
+<tr><td><img src="https://img.shields.io/badge/Claude_Code-cc9b7a?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/></td><td><code>opus-4-6</code> <code>opus-4-7</code> <code>sonnet-4-6</code> <code>+4</code></td><td><code>███████████████░░░░░</code> 76.7%</td><td align="right">337,497</td><td align="right">30.7B</td><td align="right"><b>$26,653</b></td></tr>
 <tr><td><img src="https://img.shields.io/badge/Codex_CLI-74aa9c?style=flat-square&logo=openai&logoColor=white" alt="Codex CLI"/></td><td><code>5.4</code> <code>5.3-codex</code> <code>5.3-codex-spark</code> <code>+1</code></td><td><code>█████░░░░░░░░░░░░░░░</code> 23.3%</td><td align="right">136,495</td><td align="right">20.9B</td><td align="right"><b>$8,097</b></td></tr>
 <tr><td><img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini CLI"/></td><td><code>2.5-pro</code> <code>2.5-flash</code></td><td><code>█░░░░░░░░░░░░░░░░░░░</code> 0.0%</td><td align="right">19</td><td align="right">540.4K</td><td align="right"><b>$0.40</b></td></tr>
-<tr><td colspan="3"><b>Total</b></td><td align="right"><b>473,985</b></td><td align="right"><b>51.6B</b></td><td align="right"><b>$34,746</b></td></tr>
+<tr><td colspan="3"><b>Total</b></td><td align="right"><b>474,011</b></td><td align="right"><b>51.6B</b></td><td align="right"><b>$34,751</b></td></tr>
 </table>
 
 </div>
@@ -180,7 +180,7 @@ Building [alphaview.kr](https://alphaview.kr), an AI-powered platform that analy
 <img src="https://img.shields.io/badge/Cache_Read_(93.7%25)-48.3B-2ECC71?style=flat-square" alt="Cache Read (93.7%25)"/>
 <img src="https://img.shields.io/badge/Cache_Write_(4.1%25)-2.1B-27AE60?style=flat-square" alt="Cache Write (4.1%25)"/>
 <img src="https://img.shields.io/badge/Input_(1.9%25)-990.9M-3498DB?style=flat-square" alt="Input (1.9%25)"/>
-<img src="https://img.shields.io/badge/Output_(0.4%25)-187.1M-9B59B6?style=flat-square" alt="Output (0.4%25)"/>
+<img src="https://img.shields.io/badge/Output_(0.4%25)-187.2M-9B59B6?style=flat-square" alt="Output (0.4%25)"/>
 
 </div>
 
